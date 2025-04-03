@@ -1,2 +1,2 @@
 ## Screenshot
-![Screenshot](./public/screenshot.png)
+![Screenshot](./images/screenshot.png)
